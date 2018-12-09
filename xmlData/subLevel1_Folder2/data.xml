@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<book>
+		<book_id>25311</book_id>
+	    <author>이프</author>
+	    <name>영</name>
+	</book>
+
+	<book>
+		<book_id>6351</book_id>
+	    <author>James Cameron</author>
+	    <name>South of Hell</name>
+	</book>
+</root>

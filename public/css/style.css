@@ -1,0 +1,26 @@
+/* ------------------------------------------------------------ *\
+	books-results
+\* ------------------------------------------------------------ */
+
+.books-results { text-align: left; }
+
+/* ------------------------------------------------------------ *\
+	Section
+\* ------------------------------------------------------------ */
+
+.section { width: 50%; text-align: center;  }
+
+/* ------------------------------------------------------------ *\
+	Author-details
+\* ------------------------------------------------------------ */
+
+.author-details { padding-left: 0; }
+
+.author-details.horizontal {
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+  padding-left: 30%;
+}

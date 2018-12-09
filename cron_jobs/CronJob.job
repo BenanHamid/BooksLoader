@@ -1,0 +1,1 @@
+* * * * * cd /var/www/html/books_loader/vendor; /usr/bin/php /var/www/html/books_loader/cron_jobs/CronBooksLoader.php >> /tmp/php.log 2>&1

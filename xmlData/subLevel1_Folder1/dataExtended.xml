@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<book>
+		<book_id>35120</book_id>
+	    <author>Кирил Иванов</author>
+	    <name>Кръстословици</name>
+	</book>
+
+	<book>
+		<book_id>953111</book_id>
+	    <author>Явор Григоров</author>
+	    <name>Бази данни</name>
+	</book>
+</root>
